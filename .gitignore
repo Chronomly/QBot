@@ -1,3 +1,5 @@
+*.code-workspace
+
 # CONFIG JSON'S
 config.json
 
